@@ -1,3 +1,7 @@
+Daffa Satria Kriezna Putra
+12030122140354
+Praktikum Audit F
+
 Atlas (MindBridge Ai Auditor)
 Atlas adalah nama lain dari MindBridge Ai Auditor, sebuah perangkat lunak audit berbasis kecerdasan buatan (AI) dan analisis data.
 Digunakan untuk menganalisis data keuangan secara menyeluruh dan otomatis, mengidentifikasi anomali, transaksi mencurigakan, dan risiko secara lebih cepat dan akurat.
